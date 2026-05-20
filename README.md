@@ -47,5 +47,5 @@ I am building practical demo projects that show how I approach small freelance t
 
 For freelance work, contact me by email or LinkedIn.
 
-- Email: `YOUR_WORK_EMAIL_HERE`
-- LinkedIn: `YOUR_LINKEDIN_URL_HERE`
+- Email: oleksandr.kl.dev@gmail.com
+- LinkedIn: 
