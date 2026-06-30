@@ -1,51 +1,49 @@
 # Oleksandr Klochok
 
-**Python automation & website fix contractor**  
-I build small, practical tools for web teams and small businesses: Python scripts, Streamlit utilities, website bug fixes, and HTML/CSS cleanup.
+I build code-first business workflow automations, integration middleware, and internal dashboards for small teams that need fewer manual handoffs, clearer audit trails, and more reliable operations.
 
-## What I can help with
+My focus is practical business software: CRM/API glue, webhook handling, CSV/XLSX automation, admin dashboards, validation, retries, logs, tests, and handoff documentation.
 
-- Small Python scripts for repetitive manual tasks
-- Streamlit tools for simple internal workflows
-- HTML/CSS fixes for landing pages and small websites
-- Basic website bug fixing and cleanup
-- Simple QA checks for web pages and user flows
+## Best-fit projects
 
-## Best fit
+- Lead intake, CRM update, Slack/internal notification, and retryable workflow automation
+- Internal dashboards for sales, e-commerce, refunds, fulfillment, and operations data
+- Invoice, payment, spreadsheet, CSV/XLSX, and back-office reconciliation automation
+- Webhook and API integration reliability: validation, idempotency, retries, dead letters, replay, and health dashboards
+- QA and release hardening for small web apps, APIs, and automation workflows
 
-I am a good fit for small, clearly scoped tasks such as:
+## Featured portfolio projects
 
-- “Rename and organize these files automatically”
-- “Create a small tool for a repeated workflow”
-- “Fix layout issues on this HTML/CSS page”
-- “Clean up a broken landing page section”
-- “Check a website for simple visible issues”
+| Project | Business problem | What it proves |
+|---|---|---|
+| [SalesOps Workflow Automation Hub](https://github.com/0klochok/salesops-workflow-automation-hub) | Leads are manually copied between forms, CSV files, CRM records, and Slack. | Lead validation, deduplication, mock CRM/Slack sync, run logs, failure detail, and manual retry. |
+| [E-commerce Ops Refund Dashboard](https://github.com/0klochok/ecommerce-ops-refund-dashboard) | Store operators need one place to review revenue, refunds, disputes, fulfillment delays, and alerts. | Internal dashboard design, order/refund data modeling, CSV import/export, Stripe-style test webhooks, and operational alerts. |
+| [Invoice & Payment Reconciliation Automation](https://github.com/0klochok/invoice-payment-reconciliation-automation-new) | Finance and operations teams reconcile invoices and payments manually in spreadsheets. | Python automation for CSV/XLSX ingestion, validation, deterministic matching, exception classification, and review reports. |
+| [Webhook Reliability & Integration Health Monitor](https://github.com/0klochok/webhook-reliability-integration-monitor) | Webhook-based workflows can fail silently, duplicate events, or lose recovery visibility. | Signature checks, schema validation, idempotency, retries, dead-letter handling, replay, and health monitoring. |
 
-## Tech stack
+All portfolio projects use synthetic demo data only. They are built to show implementation approach, reliability patterns, documentation quality, and business workflow thinking without exposing real client data or requiring paid production accounts.
 
-**Python** · **Streamlit** · **HTML** · **CSS** · **Git** · **GitHub** · **VS Code**
+## Main stack
 
-## Portfolio projects
+**TypeScript / web apps:** TypeScript, Node.js, Next.js, React, Hono, Zod, pnpm, Tailwind CSS, shadcn/ui-style components  
+**Python / automation:** Python 3.12+, FastAPI, Pydantic, pandas, openpyxl, SQLAlchemy, Alembic, uv, pytest, Ruff  
+**Data / infrastructure:** PostgreSQL, SQLite, Redis, Docker Compose, GitHub Actions  
+**Testing / quality:** Playwright, Vitest, pytest, linting, type checks, CI quality gates  
+**Common integrations:** Slack, Stripe-style workflows, CRM-style workflows, CSV/XLSX imports, webhook events, business dashboards
 
-I am building practical demo projects that show how I approach small freelance tasks:
+## How I approach client-style work
 
-- Python file renaming and folder automation tool
-- Website link/status checker
-- HTML/CSS landing page fix example
-- Streamlit task workflow dashboard
-- Python folder report generator
+- Clarify the workflow, business rule, and edge cases before building.
+- Keep the first version scoped and reviewable.
+- Use synthetic/demo data for safe validation before connecting real accounts.
+- Add validation, logs, retries, and clear error states where reliability matters.
+- Include setup instructions, `.env.example`, tests where practical, and handoff notes.
+- Prefer simple, maintainable code over unnecessary architecture.
 
-## How I work
+## Working with me
 
-- I keep the scope clear before starting
-- I write simple, readable code
-- I include setup instructions
-- I test the result manually before delivery
-- I prefer small, fast-delivery tasks with practical business value
+If you found me through a freelance marketplace, please contact me through that same marketplace so the project stays inside the correct platform workflow.
 
 ## Contact
 
-For freelance work, contact me by email or LinkedIn.
-
-- Email: oleksandr.kl.dev@gmail.com
-- LinkedIn: 
+For non-marketplace project inquiries: oleksandr.kl.dev@gmail.com
