@@ -43,7 +43,3 @@ All portfolio projects use synthetic demo data only. They are built to show impl
 ## Working with me
 
 If you found me through a freelance marketplace, please contact me through that same marketplace so the project stays inside the correct platform workflow.
-
-## Contact
-
-For non-marketplace project inquiries: oleksandr.kl.dev@gmail.com
