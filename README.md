@@ -17,9 +17,9 @@ My focus is practical business software: CRM/API glue, webhook handling, CSV/XLS
 | Project | Business problem | What it proves |
 |---|---|---|
 | [SalesOps Workflow Automation Hub](https://github.com/0klochok/salesops-workflow-automation-hub) | Leads are manually copied between forms, CSV files, CRM records, and Slack. | Lead validation, deduplication, mock CRM/Slack sync, run logs, failure detail, and manual retry. |
+| [CRM Migration Validation Workbench](https://github.com/0klochok/crm-migration-validation-workbench) | Contact imports fail because source files contain inconsistent values, duplicate records, and unaccounted exceptions. | CSV validation, normalization, duplicate grouping, accepted/rejected outputs, and deterministic row reconciliation. |
 | [E-commerce Ops Refund Dashboard](https://github.com/0klochok/ecommerce-ops-refund-dashboard) | Store operators need one place to review revenue, refunds, disputes, fulfillment delays, and alerts. | Internal dashboard design, order/refund data modeling, CSV import/export, Stripe-style test webhooks, and operational alerts. |
-| [Invoice & Payment Reconciliation Automation](https://github.com/0klochok/invoice-payment-reconciliation-automation-new) | Finance and operations teams reconcile invoices and payments manually in spreadsheets. | Python automation for CSV/XLSX ingestion, validation, deterministic matching, exception classification, and review reports. |
-| [Webhook Reliability & Integration Health Monitor](https://github.com/0klochok/webhook-reliability-integration-monitor) | Webhook-based workflows can fail silently, duplicate events, or lose recovery visibility. | Signature checks, schema validation, idempotency, retries, dead-letter handling, replay, and health monitoring. |
+| [Invoice & Payment Reconciliation Automation](https://github.com/0klochok/invoice-payment-reconciliation-automation) | Finance and operations teams reconcile invoices and payments manually in spreadsheets. | Python automation for CSV/XLSX ingestion, validation, deterministic matching, exception classification, and review reports. |
 
 All portfolio projects use synthetic demo data only. They are built to show implementation approach, reliability patterns, documentation quality, and business workflow thinking without exposing real client data or requiring paid production accounts.
 
